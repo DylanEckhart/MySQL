@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126add5c-dced-4031-80ef-d04a4ae7ed07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k8XlFeP7EiMf5LJvNz4wIzdOfG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Repository's/MySQL" />
+    <property name="settings.editor.selected.configurable" value="database.data.views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Repository's/MySQL" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="703" y="345" key="#Notifications" timestamp="1605109473069">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state x="703" y="345" key="#Notifications/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605109473069" />
+    <state x="560" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605167823820">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state x="560" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605167823820" />
+    <state x="420" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605103687626" />
+    <state width="1294" height="265" key="GridCell.Tab.0.bottom" timestamp="1605169705605">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state width="1294" height="265" key="GridCell.Tab.0.bottom/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605169705605" />
+    <state width="930" height="193" key="GridCell.Tab.0.bottom/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605103803085" />
+    <state width="1294" height="265" key="GridCell.Tab.0.center" timestamp="1605169705605">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state width="1294" height="265" key="GridCell.Tab.0.center/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605169705605" />
+    <state width="930" height="193" key="GridCell.Tab.0.center/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605103803083" />
+    <state width="1294" height="265" key="GridCell.Tab.0.left" timestamp="1605169705604">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state width="1294" height="265" key="GridCell.Tab.0.left/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605169705604" />
+    <state width="930" height="193" key="GridCell.Tab.0.left/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605103803082" />
+    <state width="1294" height="265" key="GridCell.Tab.0.right" timestamp="1605169705605">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state width="1294" height="265" key="GridCell.Tab.0.right/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605169705605" />
+    <state width="930" height="193" key="GridCell.Tab.0.right/0.23.1440.803/1440.23.1920.1057@0.23.1440.803" timestamp="1605103803084" />
+    <state width="221" height="457" key="HiddenNamespacesPopup" timestamp="1605109375100">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state width="221" height="457" key="HiddenNamespacesPopup/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605109375100" />
+    <state x="469" y="153" key="SettingsEditor" timestamp="1605170065807">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state x="469" y="153" key="SettingsEditor/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605170065807" />
+    <state width="343" height="441" key="SqlResolveConfigurable" timestamp="1605168375292">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state width="343" height="441" key="SqlResolveConfigurable/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605168375292" />
+    <state x="867" y="398" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1605116306793">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state x="867" y="398" key="com.intellij.database.actions.DdlActions$CreateObject$1/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605116306793" />
+    <state x="746" y="342" width="428" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1605167344041">
+      <screen x="0" y="23" width="1920" height="983" />
+    </state>
+    <state x="746" y="342" width="428" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/-1080.23.1080.1897/0.23.1920.983@0.23.1920.983" timestamp="1605167344041" />
+  </component>
+</project>
